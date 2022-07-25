@@ -1,1 +1,17 @@
-
+[
+  {
+    "descrição" : "Eliminatórias Copa 22", 
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "xxx" }
+    "mandante": {
+      "nome": "Brasil",
+      "forca": "5",
+      "imagem": "xxx" 
+  }
+  "visitante": {
+      "nome": "",
+      "forca": "5",
+      "imagem": "xxx" 
+  }
+]
