@@ -3,16 +3,16 @@
     "descrição" : "Eliminatórias Copa 22", 
     "local": {
       "nome": "Maracanã",
-      "imagem": "xxx" }
+      "imagem": "https://s3.static.brasilescola.uol.com.br/img/2019/12/estadio-maracana-novo.jpg" }
     "mandante": {
       "nome": "Brasil",
       "forca": "5",
-      "imagem": "xxx" 
+      "imagem": "https://static.todamateria.com.br/upload/ba/nd/bandeira-do-brasil-og.jpg" 
   }
   "visitante": {
-      "nome": "",
+      "nome": "Argentina",
       "forca": "5",
-      "imagem": "xxx" 
+      "imagem": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/guia-de-estudo/D/bandeira-da-argentina-oficial.jpg" 
   }
 }
 ]
